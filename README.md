@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm into Marketing, Analytics, Technology, Music & Dogs. Currently learning Python 🌱
+I'm into Marketing, Data Analytics, Technology, Music & Dogs. Currently learning Python 🌱
 
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
